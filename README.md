@@ -18,7 +18,7 @@ Interface Num: GigabitEthernet1/0/1
 Network Device IP: 192.168.1.10 ## Switch
 Authentication Status: Authentication Started_2026-08-07 01:33:00 (AUTH ## Client Authenticated - DOT1X ## STARTED
 
-Bye!!
+Bye!! 
 #End of Auto-generated email
 
 Requirements:
