@@ -1,5 +1,5 @@
 Summary
-scripts reads your Outlook Desktop Received Emails, find IP or MAC address, Fetch Information for Client Connected from Cisco Catalyst Center then reply accordingly 
+scripts reads your Outlook Desktop Received Emails, find IP or MAC address in email body, Fetch Information for Client Connected from Cisco Catalyst Center then reply accordingly 
 with following automated email:
 #Start of auto generated email
 Hello...
