@@ -2,6 +2,7 @@ Summary
 scripts reads your Outlook Desktop Received Emails, find IP or MAC address in email body, Fetch Information for Client Connected from Cisco Catalyst Center then reply accordingly 
 with following automated email:
 #Start of auto generated email
+```
 Hello...
 
 
@@ -18,7 +19,8 @@ Interface Num: GigabitEthernet1/0/1
 Network Device IP: 192.168.1.10 ## Switch
 Authentication Status: Authentication Started_2026-08-07 01:33:00 (AUTH ## Client Authenticated - DOT1X ## STARTED
 
-Bye!! 
+Bye!!
+```
 #End of Auto-generated email
 
 Requirements:
